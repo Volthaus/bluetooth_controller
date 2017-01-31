@@ -1,1 +1,2 @@
 # bluetooth_controller
+Using an Arduino, bluetooth module (HC-05 or 06), a 5VDC relay, 110 lamp, and Android smart phone or the free software PuTTY you can remotely control an LED or 110 volt device like a lamp for instance. The app used i this project was designed using the MIT App inventor (http://ai2.appinventor.mit.edu/) and I have included the source code for the app which you import into the App inventor to play with the code as you desire.
